@@ -64,6 +64,16 @@ const talks = [
     startTime: "16:50 PM",
     endTime: "17:50 PM",
     description: "An overview of real-time data streaming patterns and how to build high-throughput, low-latency systems with Apache Kafka."
+  },
+  {
+    id: 7,
+    title: "Cadence Palladium",
+    speakers: ["Seung-Hun"],
+    categories: ["Emulatoration", "Hardware Aaccelleration"],
+    duration: "60 min",
+    startTime: "18:00 PM",
+    endTime: "18:50 PM",
+    description: "An overview of real-time data streaming patterns and how to build high-throughput, low-latency systems with Apache Kafka."
   }
 ];
 
